@@ -37,6 +37,7 @@ public class Main {
             System.out.print("Again? (y/n):");
             if (!(sc.nextLine().equalsIgnoreCase("y"))){
                 break;
+                //tugas ini milllik kelompok 20
             }
         }
     }
